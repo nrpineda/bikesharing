@@ -67,12 +67,6 @@ Supporting our previous findings, is depicted that the majority of users are mal
 The overall analysis of Citi Bike services in New York aimed to provide answers that will entice investors for a creation of a similar business model that will take place in Des Moines. The similarities shared with occupied metropolitan areas in these two cities, prove a potential success for a bike-sharing business. However, more research must be done to be able to reach female and unknown costumers in the city of Des Moines through a catered marketing campaign. Overall, this is an untapped market for Des Moines that awaits to be exploited, while also being beneficial to a very important economic aspect of the city, tourism. It is a safe, healthy, and environmentally conscious alternative way of commuting. Finally, this could be a project that would rapidly increase in popularity, allowing a margin of profit to happen rather quickly.
 
 
-
-*Source :  https://www.populationu.com/cities/des-moines-ia-population#:~:text=The%20median%20age%20of%20the,years%20and%20over%20is%2036%2C996.
-
-
-
-
 [link to dashboard](https://public.tableau.com/app/profile/rebeca.nuila/viz/NYCCitibikeAnalysis_16740435927430/NYCCitibikeAnalysis)
 
 *Source :  https://www.populationu.com/cities/des-moines-ia-population#:~:text=The%20median%20age%20of%20the,years%20and%20over%20is%2036%2C996.
