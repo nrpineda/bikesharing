@@ -47,11 +47,31 @@ The following heatmap shows the variants in numbers of bookings by the hour in e
 
 ![Screenshot (80)](https://user-images.githubusercontent.com/111472338/213200545-6f45371b-c31a-42b6-b671-099548486477.png)
 
-As previously indicated, the hours with the highest usage range in between 5pm and 6pm; however, we can now see that this is happening more on Mondays, Tuesdays and Thursdays; representing with the darker shades on the daily blocks of the heatmap. This data was applied to the total of users.
-
-
+As previously indicated, the hours with the highest usage range in between 5pm and 6pm; however, we can now see that this is happening more on Mondays, Tuesdays and Thursdays; representing with the darker shades on the daily blocks of the heatmap. This data was applied to the total of users. It also shows darker shades in between 8am - 9am. This suggests regular hours of commuting, reassuring its necessary nature for the costumers.
 
 ### Costumer's Demographics
+
+Next, we will visualize the costumer’s usage by gender.
+
+In the following line graph, we have extracted the number of users by the hour and their trip duration, broken down by gender. We can see that the largest count of users books a bike for a trip duration of 0-40 minutes approximately, and of those users, the highest peak represents male costumers at a high of 100K, while female users peak at roughly 33K, and unknown peaks at approximately 7K users. There is a significant number of male costumers checking out their bikes within one hour. There is a low but constant number of female costumers that check out their bikes after the first or second hour. 
+
+![Screenshot (82)](https://user-images.githubusercontent.com/111472338/213207040-d2f58185-45a2-4433-8c37-28339c303964.png)
+
+Furthermore, the following heatmap shows the user trips during the week by gender, classified under 'Costumer' and 'Subscriber':
+
+![Screenshot (81)](https://user-images.githubusercontent.com/111472338/213209592-71594bd9-5180-435f-b6bc-20a85aaa02c4.png)
+
+Supporting our previous findings, is depicted that the majority of users are male subscribers with a dense number of bookings during Thursdays with a highest of 259,316.
+
+## Conclusions
+The overall analysis of Citi Bike services in New York aimed to provide answers that will entice investors for a creation of a similar business model that will take place in Des Moines. The similarities shared with occupied metropolitan areas in these two cities, prove a potential success for a bike-sharing business. However, more research must be done to be able to reach female and unknown costumers in the city of Des Moines through a catered marketing campaign. Overall, this is an untapped market for Des Moines that awaits to be exploited, while also being beneficial to a very important economic aspect of the city, tourism. It is a safe, healthy, and environmentally conscious alternative way of commuting. Finally, this could be a project that would rapidly increase in popularity, allowing a margin of profit to happen rather quickly.
+
+
+
+*Source :  https://www.populationu.com/cities/des-moines-ia-population#:~:text=The%20median%20age%20of%20the,years%20and%20over%20is%2036%2C996.
+
+
+
 
 
 
