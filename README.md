@@ -51,7 +51,7 @@ As previously indicated, the hours with the highest usage range in between 5pm a
 
 
 
-### Costuners Demographics
+### Costumer's Demographics
 
 
 
