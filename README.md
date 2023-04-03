@@ -2,7 +2,7 @@
 
 ## Overview
 
-The following presentation I used data retrieved from the Citi Bike System Data page to analyze the Citi Bike program in New York City.  The purpose of this analysis will be to implement the results to a business plan for the creation of a similar business model in the city of Des Moines. To do so, I used data visualizations created in Tableau, as well as the extraction, loading, and transformation of the data through Pandas. 
+In the following presentation I used data retrieved from the Citi Bike System Data page to analyze the Citi Bike program in New York City.  The purpose of this analysis will be to implement the results to a business plan for the creation of a similar business model in the city of Des Moines. To do so, I used data visualizations created in Tableau, as well as the extraction, loading, and transformation of the data through Pandas. 
 
 With this research I will answer the following questions:
 	What kind of costumers does the Citi Bike program caters to?
