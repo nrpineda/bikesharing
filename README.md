@@ -49,9 +49,9 @@ The following heatmap shows the variants in numbers of bookings by the hour in e
 
 As previously indicated, the hours with the highest usage range in between 5pm and 6pm; however, we can now see that this is happening more on Mondays, Tuesdays and Thursdays; representing with the darker shades on the daily blocks of the heatmap. This data was applied to the total of users. It also shows darker shades in between 8am - 9am. This suggests regular hours of commuting, reassuring its necessary nature for the costumers.
 
-### Costumer's Demographics
+### Customer's Demographics
 
-Next, we will visualize the costumer’s usage by gender.
+Next, we will visualize the customer’s usage by gender.
 
 In the following line graph, we have extracted the number of users by the hour and their trip duration, broken down by gender. We can see that the largest count of users books a bike for a trip duration of 0-40 minutes approximately, and of those users, the highest peak represents male costumers at a high of 100K, while female users peak at roughly 33K, and unknown peaks at approximately 7K users. There is a significant number of male costumers checking out their bikes within one hour. There is a low but constant number of female costumers that check out their bikes after the first or second hour. 
 
